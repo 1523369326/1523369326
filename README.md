@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @1523369326
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-1523369326/1523369326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello! I’m Fei Niao.
+- 👀 I’m interested in network programming and deep learning.
+- 🌱 I’m currently learning data structures and algorithms
+- 📫 How to reach me at w1523369326@163.com.
